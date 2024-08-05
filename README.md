@@ -110,3 +110,12 @@ This is a binary investment multilevel website featuring five different types of
 
 
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+![Screenshot (18)](https://github.com/user-attachments/assets/7a66c542-bdf3-49b1-9000-fbe1f1009d87)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/eeacf01f-36c0-434e-a864-577ea68878f1)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/e172ba37-f361-4d68-8d6a-59442074a7e1)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/367e59d4-b9b6-492b-ba00-e550b3dbcd42)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/44053f19-adbf-4481-aeab-f3123b3752f6)
