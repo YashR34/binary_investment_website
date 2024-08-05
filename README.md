@@ -36,7 +36,7 @@ This is a binary investment multilevel website featuring five different types of
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YashR34/binary_investment_multilevel_website.git
+    git clone https://github.com/YashR34/binary_investment_website.git
     cd binary_investment_multilevel_website
     ```
 
